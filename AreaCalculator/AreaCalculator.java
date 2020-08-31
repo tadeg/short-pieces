@@ -1,7 +1,7 @@
 public class AreaCalculator {
 
-    // concept of Method overloading
-    // option when there the same method name is used, but with different parameters 
+    // a concept of Method overloading
+    // an option when there the same method name is used, but with different parameters 
     
     public static double area (double radius) {
         if (radius <0 ) {
