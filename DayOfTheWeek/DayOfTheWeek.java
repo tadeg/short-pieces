@@ -1,5 +1,3 @@
-package academy.learnprogramming;
-
 public class DayOfTheWeek {
 
     public static void printDayOfTheWeek (int day) {
