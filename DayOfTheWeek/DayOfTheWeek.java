@@ -1,6 +1,6 @@
 public class DayOfTheWeek {
     
-    // The switch statement vs. if then else statement
+    // The switch statement vs. if else statement
 
     public static void printDayOfTheWeek (int day) {
 
