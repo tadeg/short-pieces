@@ -1,10 +1,13 @@
 public class DayOfTheWeek {
     
-    // The switch statement vs. if else statement
+    // The switch statement vs. if-then-else statement
 
     public static void printDayOfTheWeek (int day) {
 
         switch (day) {
+            case 0:
+                System.out.println("Sunday");
+                break;
             case 1:
                 System.out.println("Monday");
                 break;
@@ -32,7 +35,9 @@ public class DayOfTheWeek {
     public static void printDayOfTheWeekAlt(int day) {
 
         int dayNr = 1;
-        if (dayNr == 1) {
+        if (dayNr == 0) {
+            System.out.println("Sunday");
+        } else if (dayNr == 1) {
             System.out.println("Monday");
         } else if (dayNr == 2) {
             System.out.println("Tuesday");
