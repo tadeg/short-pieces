@@ -1,10 +1,9 @@
-package academy.learnprogramming;
-
-// switch statement vs. if-else statement
-
 
 public class NumberInWord {
 
+    // switch statement vs. if-else statement
+
+    
     public class NumberInWord {
 
         public static void printNumberInWord(int number) {
