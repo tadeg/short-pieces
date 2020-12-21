@@ -1,5 +1,5 @@
 
-// CONTENT: this code returns the number of days in the month, considering leap years that have 29 days in month 2.
+// CONTENT: returning the number of days in the month, considering leap years that have 29 days in month 2.
 
 public class NumberOfDaysInMonth {
 
